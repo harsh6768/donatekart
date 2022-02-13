@@ -3,28 +3,28 @@
 
 1. Clone project 
 
-      git clone https://github.com/harsh6768/node-login.git
+          git clone https://github.com/harsh6768/node-login.git
       
 2. Install dependency using npm 
 
-      npm i 
+            npm i 
 
-      or 
+            or 
 
-      npm install
+            npm install
 
      
 3. Create .env file in root directory and copy the content of .env.example file
 
 4. Run project using below command
 
-    npm start
+          npm start
     
     or 
     
     if you have nodemon installed globally
     
-    nodemon index.js
+           nodemon index.js
     
 5.  Apis : 
 
