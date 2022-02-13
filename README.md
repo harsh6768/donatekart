@@ -1,4 +1,4 @@
-# donatekart
+# Donatekart campaign apis.
 
 
 1. Clone project 
